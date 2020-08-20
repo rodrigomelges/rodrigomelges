@@ -4,7 +4,7 @@ My name is Rodrigo Melges. I work as a maintenance technician in São Paulo subw
 
 In my free time I like to play chess, play poker, watch series. You can find me...
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomelges)](https://www.linkedin.com/in/rodrigomelges)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-melges)](https://www.linkedin.com/in/rodrigo-melges)
 
 
 
