@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Rodrigo Melges**. I work as a maintenance technician in São Paulo subway - Brazil (🇧🇷), but sometimes I like to program. Nowadays I'm studying some crazy things about **data science**. I graduated in **computer engineering** and currently I'm in a specialization in FIA about data analysis. I created this profile to share some projects... Or nor :D. **I really love Python, but R are welcome.**
+My name is **Rodrigo Melges**. I work as a maintenance technician in São Paulo subway - Brazil (🇧🇷), but sometimes I like to program. Nowadays I'm studying some crazy things about **data science**. I graduated in **computer engineering** and currently I'm in a specialization in FIA about data analysis. I created this profile to share some projects... Or nor :). **I really love Python, but R are welcome.**
 
 In my free time I like to play chess, play poker, watch series. You can find me...
 
